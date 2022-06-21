@@ -1,4 +1,11 @@
 const classes = {
+  section: {
+    marginTop: 1,
+    marginBottom: 1,
+  },
+  smalltext: {
+    fontSize: "15px",
+  },
   main: {
     marginTop: 2,
     minHeight: "80vh",
